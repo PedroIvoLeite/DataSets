@@ -1,0 +1,4 @@
+cenario,sistema,monte_carlo,n_iter,n_bois,dias_confinamento,gmd_extra,rendimento_carcaca_pct,preco_arroba,premio_qualidade,economia_sanitaria,sd_preco_arroba,sd_gmd_extra,sd_rend_carcaca_pct,n_vacas,dias_lactacao,litros_extras_vaca_dia,preco_leite,economia_mastite,economia_longevidade,sd_preco_leite,sd_litros_extras
+Conservador,corte,False,2000,1000.0,120.0,0.1,49.0,300.0,10.0,30.0,15.0,0.04,2.0,,,,,,,,
+Base,corte,False,2000,1000.0,120.0,0.2,50.0,320.0,25.0,50.0,15.0,0.05,2.0,,,,,,,,
+Agressivo,corte,False,2000,1000.0,120.0,0.3,51.0,340.0,40.0,70.0,20.0,0.06,2.5,,,,,,,,

@@ -1,0 +1,4 @@
+dataset_name,status,rows,url,notes
+180 Practice Questions - Smart Learning,converted,180,https://i-mokymas.com/wp-content/uploads/2022/10/180_pmp_practice_questions_2021_edition-2.pdf,Cleanly parsed into structured CSV.
+PMHub,not converted,,,"Community/resource hub, not a downloadable question dataset."
+PMP Question Bank (1440 Questions),not converted,,https://17933717592032098864.googlegroups.com/attach/3bff447d69b50a59/PMP-1440_Questions-Bank.pdf?part=0.1,Mixed legacy sub-banks with inconsistent formatting and answer schemes; needs manual QA for safe structuring.
